@@ -7,10 +7,12 @@
   "license": "MIT",
   "web": "https://github.com/elcritch/cdecl",
   "refs": [
+    "refs/heads/bugfix-unsigned-ints",
     "refs/heads/cdecls-name",
     "refs/heads/cwrapper",
     "refs/heads/main",
     "refs/heads/make-unpack-labels-as-args",
+    "refs/heads/pr-update-docs",
     ""
   ],
   "heads": [
