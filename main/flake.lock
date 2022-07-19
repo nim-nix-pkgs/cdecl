@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1658031987,
-        "narHash": "sha256-wS0PSx1UY9CYbyqbhLBbFT7FuluB5kNd+d3dEMCi/kY=",
+        "lastModified": 1658201569,
+        "narHash": "sha256-1b/XMIw+OIBg4DvLUiQEEcVlxbizu5Is9mPOHrb/N5o=",
         "owner": "nim-nix-pkgs",
         "repo": "macroutils",
-        "rev": "5e014384eedf5eac34ddfeda00214e97eed57c6b",
+        "rev": "e8ed814a3863901c46d3364f741de9ac710c0ecf",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
     "src-cdecl-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1657877662,
-        "narHash": "sha256-wrsr+dDlZHtO2Rdp3fhNki7Df3m26pmgxfwfPSuZEBo=",
+        "lastModified": 1658045646,
+        "narHash": "sha256-MqKTZB/K9wSzzq6RmdzGBsda96yt6JLddbnhCiIkCdE=",
         "owner": "elcritch",
         "repo": "cdecl",
-        "rev": "070bd0249f19aed01c048523b515e61165dce886",
+        "rev": "26bfe6a0250e1025acb448aefea5433014d6eee6",
         "type": "github"
       },
       "original": {
