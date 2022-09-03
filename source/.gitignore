@@ -1,4 +1,0 @@
-cache*
-tests/t*
-!tests/t*.nim
-bin/
