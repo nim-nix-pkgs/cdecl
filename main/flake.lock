@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1667329747,
-        "narHash": "sha256-E6EIWgNy6Leq/+vJHXX4/O4zKzCcp/2unIqo7ll9FZU=",
+        "lastModified": 1667334586,
+        "narHash": "sha256-ZtwAtQ1gQJJx/nRX8VFpfJ7SCYmD6O4QJjXNu1Neyqo=",
         "owner": "nim-nix-pkgs",
         "repo": "macroutils",
-        "rev": "72f90f2140a307ad96db0819c6b1c6316e38a972",
+        "rev": "3540bca8d34df96520db28432b831185ca1f9940",
         "type": "github"
       },
       "original": {
