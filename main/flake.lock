@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1669431195,
-        "narHash": "sha256-f9n5D+cmiAeetZT4X62g8RElQ+To6QUwO7yAGahsUdw=",
+        "lastModified": 1669438138,
+        "narHash": "sha256-FhTR4EYGodqbjuwW9YStWdNVbWiifxm9EvlXzWVh2/A=",
         "owner": "nim-nix-pkgs",
         "repo": "macroutils",
-        "rev": "4e4a2c762378f56c7cd9a2347793a0c06a1e67a6",
+        "rev": "728e24f59e6a2c598033961a412269a53dd29ff2",
         "type": "github"
       },
       "original": {
